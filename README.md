@@ -1,6 +1,8 @@
 - 👋 Hi, I’m TARUNA
 
-![IMG_20220409_155005](https://user-images.githubusercontent.com/99668292/162999916-c4f2d7dc-9521-4dc7-b1c7-32f8de54bafe.jpg)
+
+![IMG-20220412-WA0002](https://user-images.githubusercontent.com/99668292/163002371-a89bf570-06ec-4cd8-b8bc-ccbb510af9b9.jpg)
+
 
 👀 I’m interested in ... Creating New things
 
