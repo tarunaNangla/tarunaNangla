@@ -16,4 +16,4 @@
 
 
 Resume 
-<a href="https://drive.google.com/file/d/1IGq3guE5WTNbR5Dcc0_neATVDO9RR5by/view?usp=sharing">Click</a>
+<a href="https://drive.google.com/file/d/1IGq3guE5WTNbR5Dcc0_neATVDO9RR5by/view?usp=sharing">Click here</a>
