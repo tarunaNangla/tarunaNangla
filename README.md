@@ -1,12 +1,15 @@
 - 👋 Hi, I’m TARUNA
-
-
-![68747470733a2f2f6f6e6c796c696e6b732e70726f2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6d61696e2d71696d672d66613762346264633362326637336537343965356332633634366434616531332e676966](https://user-images.githubusercontent.com/99668292/163003485-277d81f8-948e-40a8-b89f-5ff01ae483c0.gif)
+ 💥 Building Fully responsive website front end using HTML, CSS, Bootstrap and Javascript.
+ 💥 As of now I have knowledge only of front end but in near future I will add more features to myself and excited to explore React , NodeJS, Django and many more.
+ 💥 I have knowledge of Data Structure like Array, Matrixs Linked List  Linked List various algorithms for solving various problems efficiently.
+ 💥 As I know Data Structure and Algorithms are the heart of programming, So I loves to solve programming question in different competitive website like hackerrank and many more.
+       
+[68747470733a2f2f6f6e6c796c696e6b732e70726f2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6d61696e2d71696d672d66613762346264633362326637336537343965356332633634366434616531332e676966](https://user-images.githubusercontent.com/99668292/163003485-277d81f8-948e-40a8-b89f-5ff01ae483c0.gif)
 
 
 👀 I’m interested in ... Creating New things
 
-🌱 I’m currently learning ... Full Stack Web Development and MERN Stack at Masai School
+🌱 I’m currently learning Full Stack Web Development and MERN Stack at Masai School
 
 📫 How to reach me ... mail at tarunanangla131@gmail.com
 
@@ -18,21 +21,5 @@
 Resume 
 <a href="https://drive.google.com/file/d/1IGq3guE5WTNbR5Dcc0_neATVDO9RR5by/view?usp=sharing">Click here</a>
 
-
- <ul class = "dev-icon">
-                    <li><i class="fab fa-html5 fa-5x" style="color:#e34f26"></i></li>
-                    <li><i class="fab fa-css3-alt fa-5x" style="color:#1572b6"></i></li>
-                    <li><i class="fab fa-bootstrap fa-5x" style="color:#543b79"></i></li>
-                    <li><i class="fab fa-js-square fa-5x" style="color:#f7df1e"></i></li>
-                    <li><i class="fab fa-react fa-5x" style="color:#61dafb"></i></li>
-                    <li><i class="fab fa-node fa-5x" style="color:#679e63"></i></li>
-                    <li><i class="fab fa-figma fa-5x" style="color:#f24e1e"></i></li>
-                
-                  </ul>
-                  <div >
-                    <p >
-                       💥 Building Fully responsive website front end using HTML, CSS, Bootstrap and Javascript.</p>
-                    <p  class ="Features-paragraph">
-                       💥 As of now I have knowledge only of front end but in near future I will add more features to myself and excited to explore React , NodeJS, Django , Flask and many more.</p>
-                    
-                      </div>
+               
+                  
