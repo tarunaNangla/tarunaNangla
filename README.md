@@ -28,8 +28,9 @@
 Resume 
 <a href="https://drive.google.com/file/d/1IGq3guE5WTNbR5Dcc0_neATVDO9RR5by/view?usp=sharing">Click here</a>
 
-Portfolio 
-<a href="[https://drive.google.com/file/d/1IGq3guE5WTNbR5Dcc0_neATVDO9RR5by/view?usp=sharing](https://6298d105c098653003228aa8--sleepy-goldwasser-74018a.netlify.app/)">Click here</a>
+Portfolio: 
+<a href=""> Click Here</a>
+<a href="(https://6298d105c098653003228aa8--sleepy-goldwasser-74018a.netlify.app/)">Click here</a>
 
                
                   
