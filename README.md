@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TARUNA
+- 👋 Hi, I’m Taruna
 
  
  💥 Building Fully responsive website front end using HTML, CSS, Bootstrap and Javascript.
