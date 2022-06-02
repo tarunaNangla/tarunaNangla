@@ -30,7 +30,7 @@ Resume
 
 Portfolio: 
 <a href="https://6298d105c098653003228aa8--sleepy-goldwasser-74018a.netlify.app/"> Click Here</a>
-<a href="(https://6298d105c098653003228aa8--sleepy-goldwasser-74018a.netlify.app/)">Click here</a>
+
 
                
                   
