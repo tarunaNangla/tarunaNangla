@@ -17,3 +17,22 @@
 
 Resume 
 <a href="https://drive.google.com/file/d/1IGq3guE5WTNbR5Dcc0_neATVDO9RR5by/view?usp=sharing">Click here</a>
+
+
+ <ul class = "dev-icon">
+                    <li><i class="fab fa-html5 fa-5x" style="color:#e34f26"></i></li>
+                    <li><i class="fab fa-css3-alt fa-5x" style="color:#1572b6"></i></li>
+                    <li><i class="fab fa-bootstrap fa-5x" style="color:#543b79"></i></li>
+                    <li><i class="fab fa-js-square fa-5x" style="color:#f7df1e"></i></li>
+                    <li><i class="fab fa-react fa-5x" style="color:#61dafb"></i></li>
+                    <li><i class="fab fa-node fa-5x" style="color:#679e63"></i></li>
+                    <li><i class="fab fa-figma fa-5x" style="color:#f24e1e"></i></li>
+                
+                  </ul>
+                  <div >
+                    <p >
+                       💥 Building Fully responsive website front end using HTML, CSS, Bootstrap and Javascript.</p>
+                    <p  class ="Features-paragraph">
+                       💥 As of now I have knowledge only of front end but in near future I will add more features to myself and excited to explore React , NodeJS, Django , Flask and many more.</p>
+                    
+                      </div>
