@@ -16,12 +16,16 @@ let's connect!
 <img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
 </a>
 
+
+
 <a href="https://medium.com/@tarunanangla131">
-<img src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
+<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
 </a>
 
+
+
 <a href="https://github.com/tarunaNangla">
-<img src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
 
 
