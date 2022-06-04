@@ -55,25 +55,30 @@ Portfolio:
 
 💥 Projects
 
- Vedix, Clone:
+ 1) Vedix, Clone:
   
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5c91sbNhMYE5uBP6Kwq8XgK-S2utR2I-_Qw&usqp=CAU" alt="tt" />
         <a href="https://harmonious-florentine-0b7b40.netlify.app/">
            <img width="100px" src="https://img.shields.io/badge/-Click_here-black" />
         </a>
+        
+   <a href="https://github.com/bigyanKumar/vedix.com.git">
+           <img width="100px" src="https://img.shields.io/badge/-githublink-black" />
+        </a>
 
 
-
-  Sugar Cosmetics, Clone:
+ 2) Sugar Cosmetics, Clone:
  
-
-   <img  radiusborder="10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkw9D6yQfR_eLMKqgJH2N5qQMwlI-GsdTMA&usqp=CAU" alt="tt" />
-        <a href="https://621b75a70877afa17c5e0be8--sleepy-goldwasser-74018a.netlify.app/home.html">
+![Screenshot 2022-05-28 190930](https://user-images.githubusercontent.com/99668292/170827979-e129a5dd-b6a3-4d66-8297-7e9f2d2f6230.jpg)
+  
+   <a href="https://621b75a70877afa17c5e0be8--sleepy-goldwasser-74018a.netlify.app/home.html">
            <img width="100px" src="https://img.shields.io/badge/-Click_here-black" />
         </a>
  
-
+ <a href="https://github.com/tarunaNangla/sugarcometics.git">
+           <img width="100px" src="https://img.shields.io/badge/-githublink-black" />
+        </a>
 
 
 
