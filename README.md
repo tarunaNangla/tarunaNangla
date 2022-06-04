@@ -10,6 +10,7 @@
  💥 As I know Data Structure and Algorithms are the heart of programming, So I loves to solve programming question in different competitive website like hackerrank and many more.
        
 Have an idea? Let's connect:
+(Few Things I've Build)
 <center>
 <a href="https://www.linkedin.com/in/taruna-nangla-463a6a195/">
 <img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
