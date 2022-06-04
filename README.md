@@ -9,7 +9,12 @@
  
  💥 As I know Data Structure and Algorithms are the heart of programming, So I loves to solve programming question in different competitive website like hackerrank and many more.
        
+Have an idea?
+let's connect!
 
+<a href="https://www.linkedin.com/in/taruna-nangla-463a6a195/">
+<img src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+</a>
 
 ![68747470733a2f2f6f6e6c796c696e6b732e70726f2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6d61696e2d71696d672d66613762346264633362326637336537343965356332633634366434616531332e676966](https://user-images.githubusercontent.com/99668292/163003485-277d81f8-948e-40a8-b89f-5ff01ae483c0.gif)
 
