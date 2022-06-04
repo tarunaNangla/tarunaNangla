@@ -32,7 +32,7 @@ let's connect!
 <a href="https://drive.google.com/file/d/1IGq3guE5WTNbR5Dcc0_neATVDO9RR5by/view?usp=sharing">Click here</a>
 
 Portfolio: 
-<a href="https://629b0b48fd786746c5ac9b06--taruna.netlify.app/"> Click Here</a>
+<a href="https://taruna.netlify.app/"> Click Here</a>
 
 
 
