@@ -41,10 +41,7 @@ A task-driven full stack web developer looking forward to work in user-centric, 
  
 
  
-  <a href='https://www.google.com/maps/search/d1%2F51,+mansa+ram+park+new+delhi/@28.6160358,77.0438268,17z/data=!3m1!4b1' isExternal>
-                 <Image  width="200px" src="https://img.shields.io/badge/-Loaction-black"></Image>
-               </a>
-
+ 
 
 
 
