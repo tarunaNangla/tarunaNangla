@@ -52,8 +52,8 @@ Portfolio:
 ![89734383-7827e580-da79-11ea-9840-299bc8b32335](https://user-images.githubusercontent.com/99668292/163000603-d1c4922b-c36c-49c0-9abd-90dddcbf08a5.jpg)
 
 
-![image](https://user-images.githubusercontent.com/99668292/171988900-cde5259c-1c56-48bb-9999-d6a7ce3a7a6e.png)
-Projects
+
+💥 Projects
 
  Vedix, Clone:
   
