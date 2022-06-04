@@ -27,6 +27,14 @@ let's connect!
 <a href="https://github.com/tarunaNangla">
 <img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
+ 
+ Resume 
+<a href="https://drive.google.com/file/d/1IGq3guE5WTNbR5Dcc0_neATVDO9RR5by/view?usp=sharing">Click here</a>
+
+Portfolio: 
+<a href="https://taruna.netlify.app/"> Click Here</a>
+
+
 
 </center>
 
@@ -44,12 +52,12 @@ let's connect!
 ![89734383-7827e580-da79-11ea-9840-299bc8b32335](https://user-images.githubusercontent.com/99668292/163000603-d1c4922b-c36c-49c0-9abd-90dddcbf08a5.jpg)
 
 
-Resume 
-<a href="https://drive.google.com/file/d/1IGq3guE5WTNbR5Dcc0_neATVDO9RR5by/view?usp=sharing">Click here</a>
+Few Things I've Build
 
-Portfolio: 
-<a href="https://taruna.netlify.app/"> Click Here</a>
-
-
+Vedix, Clone:
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5c91sbNhMYE5uBP6Kwq8XgK-S2utR2I-_Qw&usqp=CAU" alt="tt" />
+<a href="https://harmonious-florentine-0b7b40.netlify.app/">
+<img  src="https://img.shields.io/badge/-website-black" />
+</a>
                
                   
