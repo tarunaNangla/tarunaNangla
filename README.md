@@ -1,9 +1,9 @@
 👋 Hi, I’m Taruna
 
  
- 💥 Building Fully responsive website front end using HTML, CSS, Bootstrap and Javascript.
+ 💥 Building Fully responsive websites, front-end using HTML, CSS, Bootstrap and Javascript.
  
- 💥 As of now I have knowledge only of front end but in near future I will add more features to myself and excited to explore React , NodeJS, Django and many more.
+ 💥 As of now I have knowledge only of front-end but in near future I will add more features to myself and excited to explore React , NodeJS, Django and many more.
  
  💥 I have knowledge of Data Structure like Array, Matrixs Linked List various algorithms for solving various problems efficiently.
  
