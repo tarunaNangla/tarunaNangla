@@ -88,7 +88,7 @@ Portfolio:
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
  
  <h1>Github Status</h1>
  
@@ -96,43 +96,51 @@ Portfolio:
  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/e3a38e397f7c75bcd884b28f858bf9a1c3c7161b/asset/logo.svg"></img>
  
  </div>
-                   
+                    -->
 
 
 
 
  <h1 align="center" >Projects</h1>
  
- <div align="center" style="display: flex;>
+ 
+<h3> 
+ 1) Vedix, Clone:
+</h3>
+
+
+
+
+
+
+![Screenshot 2022-06-04 125557](https://user-images.githubusercontent.com/99668292/172027050-e0067d79-23b1-44e9-b941-d59443bd53ac.jpg)
+
 
  
+
  
- <Link href='https://github.com/bigyanKumar/vedix.com.git' isExternal>
-                 <Image width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white"></Image>
-               </Link>
+ <a href='https://harmonious-florentine-0b7b40.netlify.app/' isExternal>
+                 <Image width="100px" src="https://img.shields.io/badge/-Deployed_link-black"></Image>
+               </a>
  
- <Link href='https://harmonious-florentine-0b7b40.netlify.app/' isExternal>
-                 <Image width="100px" src="https://img.shields.io/badge/-website-black"></Image>
-               </Link>
+
  
- </div>
- 
- 
- 
-  <div align="center" style="display: flex;>
+ <h3>
+ 2) Sugar Cosmetics, Clone:
+</h3>
  
   
+
+<img src="https://user-images.githubusercontent.com/99668292/170827979-e129a5dd-b6a3-4d66-8297-7e9f2d2f6230.jpg"></img>
  
  
- <Link href='https://github.com/tarunaNangla/sugarcometics.git' isExternal>
-                 <Image width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white"></Image>
-               </Link>
+
  
- <Link href='https://621b75a70877afa17c5e0be8--sleepy-goldwasser-74018a.netlify.app/home.html' isExternal>
-                 <Image width="100px" src="https://img.shields.io/badge/-website-black"></Image>
-               </Link>
+ <a href='https://621b75a70877afa17c5e0be8--sleepy-goldwasser-74018a.netlify.app/home.html' isExternal>
+                 <Image width="100px" src="https://img.shields.io/badge/-Deployed_link-black"></Image>
+               </a>
  
- </div>
+
  
  
  
