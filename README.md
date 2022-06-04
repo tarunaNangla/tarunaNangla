@@ -65,7 +65,7 @@ Portfolio:
         </a>
         
    <a href="https://github.com/bigyanKumar/vedix.com.git">
-           <img width="100px" src="https://img.shields.io/badge/-githublink-black" />
+           <img width="100px" src="https://img.shields.io/badge/-github_link-black" />
         </a>
 
 
@@ -78,7 +78,7 @@ Portfolio:
         </a>
  
  <a href="https://github.com/tarunaNangla/sugarcometics.git">
-           <img width="100px" src="https://img.shields.io/badge/-githublink-black" />
+           <img width="100px" src="https://img.shields.io/badge/-github_link-black" />
         </a>
 
 
