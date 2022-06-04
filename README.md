@@ -19,7 +19,7 @@ A task-driven full stack web developer looking forward to work in user-centric, 
 </div>       
 
 
-<h1>Have an idea? Let's connect:</h1>
+<h1 align="center" >Have an idea? Let's connect:</h1>
 
 
 <div  align="center" gap="20px">
