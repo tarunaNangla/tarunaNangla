@@ -5,7 +5,7 @@
  
  💥 As of now I have knowledge only of front end but in near future I will add more features to myself and excited to explore React , NodeJS, Django and many more.
  
- 💥 I have knowledge of Data Structure like Array, Matrixs Linked List  Linked List various algorithms for solving various problems efficiently.
+ 💥 I have knowledge of Data Structure like Array, Matrixs Linked List various algorithms for solving various problems efficiently.
  
  💥 As I know Data Structure and Algorithms are the heart of programming, So I loves to solve programming question in different competitive website like hackerrank and many more.
        
