@@ -53,29 +53,28 @@ Portfolio:
 
 
 Few Things I've Buid
-<div display:"flex">
- <div>
+
  Vedix, Clone:
   
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5c91sbNhMYE5uBP6Kwq8XgK-S2utR2I-_Qw&usqp=CAU" alt="tt" />
         <a href="https://harmonious-florentine-0b7b40.netlify.app/">
-           <img width="100px" src="https://img.shields.io/badge/-Clone-website-black" />
+           <img width="100px" src="https://img.shields.io/badge/-Clone_website-black" />
         </a>
- </div>
 
-<div>
+
+
   Sugar Cosmetics, Clone:
  
 
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkw9D6yQfR_eLMKqgJH2N5qQMwlI-GsdTMA&usqp=CAU" alt="tt" />
         <a href="https://621b75a70877afa17c5e0be8--sleepy-goldwasser-74018a.netlify.app/home.html">
-           <img  width="100px" src="https://img.shields.io/badge/-Clone-website-black" />
+           <img  width="100px" src="https://img.shields.io/badge/-Clone_website-black" />
         </a>
  
- </div>
 
- </div>
+
+
 
  
   
