@@ -1,6 +1,6 @@
 👋 Hi, I’m Taruna
 
-amo.githubusercontent.com/717b04f9130fb79f3f533daf3b73095a1504287a9229d74c30ff7b40b3266ba9/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f63686574616e72616b6872612f636f756e742e737667
+![](https://Taruna.com/ghpvc/?username=your-github-username)
  
  💥 Building Fully responsive websites, front-end using HTML, CSS, Bootstrap and Javascript.
  
