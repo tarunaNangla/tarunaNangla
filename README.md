@@ -1,6 +1,6 @@
 👋 Hi, I’m Taruna
 
-![](https://Taruna.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
  
  💥 Building Fully responsive websites, front-end using HTML, CSS, Bootstrap and Javascript.
  
