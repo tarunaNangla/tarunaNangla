@@ -62,7 +62,7 @@ Portfolio:
 
 <div   align="center">
  
-👀 I’m interested in ... Creating New things
+👀 I’m interested in creating new things
 
 🌱 I’m currently learning Full Stack Web Development and MERN Stack at Masai School
 
