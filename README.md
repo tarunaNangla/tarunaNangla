@@ -101,8 +101,38 @@ Portfolio:
 
 
 
+ <h1 align="center" >Projects</h1>
+ 
+ <div align="center" style="display: flex;>
+
+ 
+ 
+ <Link href='https://github.com/bigyanKumar/vedix.com.git' isExternal>
+                 <Image width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white"></Image>
+               </Link>
+ 
+ <Link href='https://harmonious-florentine-0b7b40.netlify.app/' isExternal>
+                 <Image width="100px" src="https://img.shields.io/badge/-website-black"></Image>
+               </Link>
+ 
+ </div>
+ 
+ 
+ 
+  <div align="center" style="display: flex;>
  
   
+ 
+ 
+ <Link href='https://github.com/tarunaNangla/sugarcometics.git' isExternal>
+                 <Image width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white"></Image>
+               </Link>
+ 
+ <Link href='https://621b75a70877afa17c5e0be8--sleepy-goldwasser-74018a.netlify.app/home.html' isExternal>
+                 <Image width="100px" src="https://img.shields.io/badge/-website-black"></Image>
+               </Link>
+ 
+ </div>
  
  
  
