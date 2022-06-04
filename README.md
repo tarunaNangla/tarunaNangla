@@ -58,8 +58,9 @@ Portfolio:
  1) Vedix, Clone:
   
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5c91sbNhMYE5uBP6Kwq8XgK-S2utR2I-_Qw&usqp=CAU" alt="tt" />
-        <a href="https://harmonious-florentine-0b7b40.netlify.app/">
+  ![Screenshot 2022-06-04 125557](https://user-images.githubusercontent.com/99668292/171989362-19800195-bd2f-46b0-885f-f11f395f9925.jpg)
+
+   <a href="https://harmonious-florentine-0b7b40.netlify.app/">
            <img width="100px" src="https://img.shields.io/badge/-Click_here-black" />
         </a>
         
