@@ -54,7 +54,10 @@ Portfolio:
 
 Few Things I've Build
 
-Vedix, Clone:
+<div>
+ Vedix, Clone:
+</div>
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5c91sbNhMYE5uBP6Kwq8XgK-S2utR2I-_Qw&usqp=CAU" alt="tt" />
 <a href="https://harmonious-florentine-0b7b40.netlify.app/">
 <img  src="https://img.shields.io/badge/-website-black" />
