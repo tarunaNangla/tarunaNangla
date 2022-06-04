@@ -69,7 +69,7 @@ Few Things I've Buid
 
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkw9D6yQfR_eLMKqgJH2N5qQMwlI-GsdTMA&usqp=CAU" alt="tt" />
         <a href="https://621b75a70877afa17c5e0be8--sleepy-goldwasser-74018a.netlify.app/home.html">
-           <img  width="100px" src="https://img.shields.io/badge/-Click_here" />
+           <img  src="https://img.shields.io/badge/-Click_here" />
         </a>
  
 
