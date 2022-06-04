@@ -52,22 +52,30 @@ Portfolio:
 ![89734383-7827e580-da79-11ea-9840-299bc8b32335](https://user-images.githubusercontent.com/99668292/163000603-d1c4922b-c36c-49c0-9abd-90dddcbf08a5.jpg)
 
 
-Few Things I've Build
-
- 
+Few Things I've Buid
+<div display:"flex">
+ <div>
+ Vedix, Clone:
   
 
- 
- 
- 
-       Vedix, Clone:
-  
-
-           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5c91sbNhMYE5uBP6Kwq8XgK-S2utR2I-_Qw&usqp=CAU" alt="tt" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5c91sbNhMYE5uBP6Kwq8XgK-S2utR2I-_Qw&usqp=CAU" alt="tt" />
         <a href="https://harmonious-florentine-0b7b40.netlify.app/">
-           <img  src="https://img.shields.io/badge/-Vedix , clone-black" />
+           <img width="100px" src="https://img.shields.io/badge/-Clone-website-black" />
         </a>
+ </div>
 
+<div>
+  Sugar Cosmetics, Clone:
+ 
+
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkw9D6yQfR_eLMKqgJH2N5qQMwlI-GsdTMA&usqp=CAU" alt="tt" />
+        <a href="https://621b75a70877afa17c5e0be8--sleepy-goldwasser-74018a.netlify.app/home.html">
+           <img  width="100px" src="https://img.shields.io/badge/-Clone-website-black" />
+        </a>
+ 
+ </div>
+
+ </div>
 
  
   
@@ -78,14 +86,7 @@ Few Things I've Build
  
  
     
-       Sugar Costmetics, Clone:
- 
-
-           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkw9D6yQfR_eLMKqgJH2N5qQMwlI-GsdTMA&usqp=CAU" alt="tt" />
-        <a href="https://621b75a70877afa17c5e0be8--sleepy-goldwasser-74018a.netlify.app/home.html">
-           <img  src="https://img.shields.io/badge/-website-black" />
-        </a>
- 
+  
 
 
 
