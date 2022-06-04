@@ -1,6 +1,6 @@
 👋 Hi, I’m Taruna
 
-![](https://komarev.com/ghpvc/?tarunaNangla=your-github-tarunaNangla&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
 
