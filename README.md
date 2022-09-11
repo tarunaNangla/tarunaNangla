@@ -88,58 +88,29 @@ Portfolio:
  
  <h1>Github Status</h1>
  
- 
  <img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png"></img>
+ 
  
  </div>
                    
 
+<div align="center">
 
+<img  src=""  />
 
-
- <h1 align="center" >Projects</h1>
- 
- 
-<h3> 
- 1) Vedix, Clone:
-</h3>
-
-
-
-
-
-
-![Screenshot 2022-06-04 125557](https://user-images.githubusercontent.com/99668292/172027050-e0067d79-23b1-44e9-b941-d59443bd53ac.jpg)
-
+</div>
 
  
 
- 
- <a href='https://harmonious-florentine-0b7b40.netlify.app/' isExternal>
-                 <Image width="100px" src="https://img.shields.io/badge/-Deployed_link-black"></Image>
-               </a>
- 
-
- 
- <h3>
- 2) Sugar Cosmetics, Clone:
-</h3>
- 
-  
-
-<img src="https://user-images.githubusercontent.com/99668292/170827979-e129a5dd-b6a3-4d66-8297-7e9f2d2f6230.jpg"></img>
- 
- 
-
- 
- <a href='https://621b75a70877afa17c5e0be8--sleepy-goldwasser-74018a.netlify.app/home.html' isExternal>
-                 <Image width="100px" src="https://img.shields.io/badge/-Deployed_link-black"></Image>
-               </a>
- 
 
  
  
+ <div>
  
+ <img src="https://camo.githubusercontent.com/d31cf1c306533c6880dd8a00ed814eabbe8010c0a58932bfdf46e1e6be4a4498/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7368617261647531362673686f775f69636f6e733d74727565266c6f63616c653d656e" />
+ 
+ 
+ </div>
 
  
  
