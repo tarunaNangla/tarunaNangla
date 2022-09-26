@@ -50,7 +50,7 @@ A task-driven full stack web developer looking forward to work in user-centric, 
 <a href="https://drive.google.com/file/d/1IGq3guE5WTNbR5Dcc0_neATVDO9RR5by/view">Click here</a>
 
 Portfolio: 
-<a href="https://631dd6bbf19e9b2021e047dd--taruna.netlify.app/"> Click Here</a>
+<a href="https://6331f632e628ae2b90c30d88--taruna.netlify.app/"> Click Here</a>
  
  </div>
 
