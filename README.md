@@ -111,11 +111,11 @@ Portfolio:
 
 
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=tarunanangla&show_icons=true&locale=en" alt="tarunanangla" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=tarunaNangla&show_icons=true&locale=en" alt="tarunanangla" /></p>
 
 
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunanangla&" alt="tarunanangla" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunaNangla&" alt="tarunanangla" /></p>
  
  
  
