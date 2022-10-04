@@ -32,6 +32,11 @@ A task-driven full stack web developer looking forward to work in user-centric, 
 
 
 <a href="https://github.com/tarunaNangla">
+
+
+
+
+
 <img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
  
@@ -88,7 +93,6 @@ Portfolio:
  
  <h1>Github Status</h1>
  
- <img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png"></img>
  
  
  </div>
@@ -98,7 +102,17 @@ Portfolio:
  
 
 
- 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunanangla" alt="tarunanangla" /></a> </p>
+
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunanangla&show_icons=true&locale=en" alt="tarunanangla" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunanangla&" alt="tarunanangla" /></p>
  
  
  
