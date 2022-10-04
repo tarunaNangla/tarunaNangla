@@ -7,6 +7,9 @@
 </h2>
  
  </p>
+ 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarunanangla&label=Profile%20views&color=0e75b6&style=flat" alt="tarunanangla" /> </p>
+
 
 
  <div align="center">
@@ -108,11 +111,11 @@ Portfolio:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunanangla&show_icons=true&locale=en" alt="tarunanangla" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=tarunanangla&show_icons=true&locale=en" alt="tarunanangla" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunanangla&" alt="tarunanangla" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunanangla&" alt="tarunanangla" /></p>
  
  
  
