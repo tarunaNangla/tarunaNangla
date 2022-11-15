@@ -34,7 +34,7 @@ A task-driven full stack web developer looking forward to work in user-centric, 
  
 
 
-<a href="https://github.com/tarunaNangla">
+<a href="https://tarunanangla.github.io/">
 
 
 
